@@ -1,0 +1,11 @@
+@INPROCEEDINGS{5947243, 
+author={Bolstad, A. and Miller, B.A. and Goodman, J. and Vian, J. and Kalyanam, J.}, 
+booktitle={Acoustics, Speech and Signal Processing (ICASSP), 2011 IEEE International Conference on}, 
+title={Identification and compensation of Wiener-Hammerstein systems with feedback}, 
+year={2011}, 
+month={May}, 
+pages={4056-4059}, 
+keywords={III-V semiconductors;Volterra series;feedback amplifiers;filters;gallium compounds;power amplifiers;radiofrequency amplifiers;wide band gap semiconductors;Cramer-Rao bound;GaN;RF power amplifiers;Volterra series based compensation;Wiener-Hammerstein identification method;feedback filter;parallel feedforward;two-tone measurements;wideband power amplifier;Data models;Inverters;Mathematical model;Nonlinear systems;Polynomials;Training;Nonlinear system identification;Wiener-Hammerstein system;log-frequency;nonlinear equalization;predistortion}, 
+doi={10.1109/ICASSP.2011.5947243}, 
+ISSN={1520-6149},}
+

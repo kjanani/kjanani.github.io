@@ -1,0 +1,6 @@
+@article{kalyanam2015facts,
+  title={Facts and Fabrications about Ebola: A Twitter Based Study},
+  author={Kalyanam, Janani and Velupillai, Sumithra and Doan, Son and Conway, Mike and Lanckriet, Gert},
+  journal={arXiv preprint arXiv:1508.02079},
+  year={2015}
+}

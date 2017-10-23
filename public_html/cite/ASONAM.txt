@@ -1,0 +1,6 @@
+@inproceedings{kalyanam2016event,
+  title={From Event Detection to Story Telling on Microblogs},
+  author={Kalyanam, J and Veupillai, S and Conway, M and Lanckriet, G},
+  booktitle={ACM/IEEE Conference on Advances in Social Networks Analysis and Mining (ASONAM 2016)},
+  year={2016}
+}

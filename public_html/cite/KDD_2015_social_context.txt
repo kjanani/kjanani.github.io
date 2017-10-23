@@ -1,0 +1,8 @@
+@inproceedings{kalyanam2015leveraging,
+  title={Leveraging Social Context for Modeling Topic Evolution},
+  author={Kalyanam, Janani and Mantrach, Amin and Saez-Trumper, Diego and Vahabi, Hossein and Lanckriet, Gert},
+  booktitle={Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  pages={517--526},
+  year={2015},
+  organization={ACM}
+}

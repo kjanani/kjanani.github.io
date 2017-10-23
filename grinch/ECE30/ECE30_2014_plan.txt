@@ -1,0 +1,277 @@
+
+ECE30 PLAN
+
+0) Lectures: Tu-Th 11-12:20 at PETER 110.  
+   Discussion: Mo 9 - 9:50 at PETER 110.
+   Labs: Mo(7-10), Tu(7-10), We(8:30-11:30, 7-10), Th(3:30-6:30,7-10), Fri(8:30-11:30, 12-3).
+   All labs and Office hours held at WLH-2213B.  (The code for the lab is some portion of your PID. Confirm with Janani).
+
+	PHONE NUMBERS:
+		Gert:  858-539-6003
+		Regular Lab leads
+			Brian Lewis: 641-220-5079
+			Emma Zheng: 408-497-2495
+		Project Lab leads
+			Daniel Heineck: 503-523-7819
+			Yonatan Vaizman: 619-992-5197
+		Lab helpers
+			Justin Tee: 310-658-2022
+			Jiyu Yu: 858-349-5630
+		Grader
+			Jiaqing Tang: 858-353-1906 
+		Head TA
+			Janani Kalyanam: 732-983-2437
+	
+
+	QUIZ PROCTORING:
+		Quiz 1 [during discussion, 9 - 9:50] (4/21): Yonatan, Emma 
+		Quiz 2 [during discussion, 9 - 9:50] (5/12): Brian, Jiaqing, 
+		Quiz 3 [Tuesday, 7-7:50 AND 8-8:50, ROOM TBA] (5/27): Janani, Justin, Jiyu
+		Quiz 4 [during discussion 9 - 9:50] (6/2): Brian, Daniel
+
+	
+	LABS:
+		Brian: Mo(7-10), We(8:30-11:30, 7-10), Th(3:30-6:30) [Weeks 2,3,4,6,8,9,10]
+		Emma:  Tu(7-10), Th(7-10), Fri(8:30-11:30, 12-3) [Weeks 2,3,4,6,8,9,10]
+		Daniel: Mo (7-10), Tu (7-10), We (7-10), Th (7-10) [Weeks 2,5,7]
+		Yonatan: We (8:30 - 11:30), Th (3:30 - 6:30), Fri (8:30 - 11:30) Fri (12 - 3) [Weeks 2,5,7]
+		Jiyu: We (8:30-11:30, 7-10), Th(3:30 - 6:30), Fri(8:30-11:30) [Weeks 2 through 10]
+		Justin: Mo(7-10), Tu(7-10), Th(7-10), Fri(12-3) [Weeks 2 through 10]
+		Jiaqing:  No labs.
+
+	OFFICE HOURS (all Office Hours held in the lab):
+		Brian: Wed (4:30-5:30) 
+		Emma: Mo(11-12), Fri(6:30 - 7:30)
+		Jiyu: We (12-1) 
+		Justin: Fri (3-4)
+		Jiaqing: We (12-1), Fri (5-6), Saturdays after quiz (4/26, 5/17, 5/31, 6/7) : 9-12
+	
+	DISCUSSION:
+		Brian:  week-2
+		Emma:   week-3
+		Emma:   week-6
+		Brian:  week-8
+
+
+2) Class attendance (suggestion to all TAs):
+	* I suggest you check out the first few classes (and especially the first one, on Tuesday April 1st at 11AM); after that, it's up to you: what matters is that you master the material so you can do the best possible job for the students; I'm not requiring class or discussion attendance and it does not count towards your time.
+	* make sure to be up to date and slightly ahead of what I'm covering in class (you can go off the online class schedule and suggested readings in notes or book)
+
+3) Personal tasks:
+
+** a) Janani -- Head TA **
+
+- Gert interacts primarily with Janani; other TAs interact primarily with Janani
+- Manage master grade sheet and attendance lists
+	* ask Gert for all names/info of the students (at the end of week 1)
+	* manage excel sheet: quiz grades, project grade, final grade, attendance for labs
+- manage the printing and delivering of quizzes and final
+- coordination point
+- students always email ecethirty@gmail.com for *everything*; all TAs will be given access to the email.  Head TA assigns the emails to specific TAs by placing them in a separate folder assigned to them (this folder will be in the gmail account itself).  All TAs are expected to check the account once in 24 hours.  
+- given number of students in the class, Gert will forward EVERY email from a student to ecethirty@gmail.com; except when marked [FOR THE PROFESSOR ONLY] in the subject line
+- assist with putting together quizzes (problems, solutions, and a well-documented grading rubric) and final
+- randomly check some graded quizzes
+
+** b) Daniel/Yonatan **
+- programming project (more details at the end of this email)
+
+
+** c) Brian/Emma [THE REGULAR LAB LEADS] **
+- leads the labs: Mo/Tu/We/Th for week 2, 3, 4, 6, 8, 9, 10; prepare and do introduction and mid-way call.  Brian: Mo(7-10), Wed(8:30-11:30, 7-10), Th(3:30-6:30).
+	Emma:  Tu(7-10), Th(7-10), Fri(8:30 - 11:30, 12 - 3).  OH: Mo(11-12), Fri(3-4).	
+- Weeks 2,3,6,8: discussion sessions are lead by Brian/Emma. (Brian leads 2,
+  and Emma leads 2).  Material to be covered in discussion will be given given
+  by Gert 2 days before.
+- Checks email at ecethirty@gmail.com [every 24 hours].  I have a folder created for each of you.
+- office hours: 2x 1h (2 hours) per week
+- solve quizzes, final as a "tester" (Janani will assign problems)
+- proctoring (scheduled by Janani.  Need to be able to answer questions about problems on the Quiz.  Talk to Janani)
+- final grading
+
+
+** d) Jiyu/Justin [THE LAB ASSISTANTS] **
+- labs: Mo/Tu/We/Th for week 2, 3, 4, 5, 6, 7, 8, 9, 10.  
+	Justin: Mon,Tu,Th:(7-10), Fri(12-3).  OH: Fri(3-4)
+	Come in 30 minutes after the lab begin and stay
+  until the end (for 2.5 hours each lab).
+- office hours: 1h per week
+- checks email at ecethirty@gmail.com [every 24 hours].  I have a folder created for each of you.
+- solve quizzes, final as a "tester" (Janani will assign problems)
+- proctoring (scheduled by Janani.  Need to be able to answer questions about problems on the Quiz.  Talk to Janani)
+- final grading
+
+
+** f) Jiaqing **
+- grading: quizzes, final (also: double check a) grading and b) grade consistency)
+- office hours: Tu (3-4), Th (4-5) 
+- During quiz weeks, you will have extra office hours for 3 hours on Saturday for students to see the quiz.  That will be on 4/26, 5/17, 5/31 and   6/7, from 9 AM - 12 noon.
+- help head TA with putting together quizzes (problems, solutions, grading rubric) and final
+- checks email every 24 hours.  I have a separate folder for you.
+
+
+4) Example problems:
+	* NEVER simply give students the solution for example problems, during office hours (or any other occasion); always challenge them to reason through the solution; ask for evidence that they tried to solve the problem.
+
+
+5) Procedure for quizzes:
+	* Gert emails head TA last and earlier years' quizzes (+ solutions), if head TA doesn't have them yet
+	* The week before a quiz week:
+		- Janani puts ideas for quiz together 
+		- Janani puts quiz problems and solutions together with Jiaqing and Jiyu and/or Justin (include a field for lab section on the first page)
+		- Janani reviews (and, also, makes sure that quiz content is in line with labs, lectures and problem sets)
+		- Janani emails quiz to TAs to solve, cc Gert: by Wednesday night
+		- TAs solve the quiz on Thursday
+		- after solving, TAs double check quiz and solutions and provide feedback to Janani (feedback must be coherent; i.e., if TAs have different solutions, they must double check and align the solutions and their feedback)
+		- Janani emails quiz and solutions (all files: .tex, .pdf, etc.) to Gert: by Thursday night
+		- Try to avoid iterations!
+		- Janani and grader discuss quiz grading rubric
+	* Sunday before the quiz (Sunday April 20st, May 11th, May 25th and June 1st):
+		- "quiz office hour" (similar to the review session the night before the final)
+		- 2:00-3:30pm, in the lab
+		- all of us present (except Janani and the grader (Jiaqing).  Project TAs need not during quiz offce hours, but should come for final review session.)
+	* Day of the quiz:
+		- Janani: makes sure quizzes are printed (talk to Travis about this) and delivered to discussion location at 8:50am (Monday)
+		- 2 TAs proctor the quiz.  (Scheduled by Janani).
+		- Jiaqing:
+			* At 9:50am: meet the TAs to pick up quizzes (and return previous, graded quizzes to Gert)
+			* Immediately grade quizzes of students in Monday lab
+			* By 3:30 PM, email grades Monday lab students to Gert (column 1: SID; other columns: grades for each question, and total grade)
+		- Daniel/Yonatan: help out Jiaqing with grading the coding problem in quiz 1
+		- Gert puts SIDs online for students that are required to attend the Monday lab; Gert emails Janani the cut-off grade
+	* On Tuesday:
+		- Grader grades as many exams as possible.  Make sure to grade all the Tuesday exams by 2 PM. Email grades of Tuesday lab 
+		  students to Gert (column 1: SID, other columns: grader for
+		  each question, and total grade).  Gert puts SID online for
+		  students that are required to attend the Monday lab.  Gert
+		  emails Janani the cut-off grade.
+	* On Wednesday:
+		- All grading needs to be completed Wednesday by noon.
+		- Janani emails Gert updated master grading sheet by 1pm (or, if online, make sure all is updated online)
+		- Janani emails Gert html file by 2 pm.
+			* column 1: SIDs, sorted (with different color code if required to attend lab vs. not: green versus black)
+			* column 2: grade
+	* NEVER return quizzes to students:
+		- Grader holds on to the graded quizzes until the next quiz (and can discuss them with the students in his office hours, in the labs, etc.)
+		- at the next quiz: Grader gives graded quizzes to Gert during office hours. (for quiz #4, please give them to Gert during the review session, the night before the final).
+	* Regrading policy: to request a regrade, students must submit a formal email request to ecethirty@gmail.com, explaining in detail why they want to be considered for a regrade. For a regrade, the Grader will revise and regrade *all* problems in the quiz (so the student risks getting points deducted through the regrade). Regrade requests will only be honored until Friday before the following quiz / final. (during this time, Grader holds, and possibly updates, the master grades for the quizzes).  Regrade requests for 
+			Quiz 1: until 5/9
+			Quiz 2: until 5/23
+			Quiz 3: until 5/30
+			Quiz 4: until 6/6.
+
+
+6) Procedure for labs:
+	* Lab problems and solutions are in place, except: for quiz weeks, Janani will replace the old quiz questions (and solutions) by new quiz questions (and solutions) in the lab assignments.
+	* Format of the labs:
+		- start with review session (white board; students standing around; about 20-25min): review class material, informal discussion, intro to lab problems for the day (stimulate students to participate)
+		- students go solve problems, at lab stations
+		- call ALL students to the white board at least once during the lab (or, more, if it turns out appropriate), for a "mid way call"; this could be a 5min explanation of material for an upcoming problem; it could be asking one of the students to explain one of the problems; etc.
+		- tell the students to explain things to their colleagues and stimulate discussion
+		- check off students' progress (question-per-question progress sheets)
+		- students can leave when done (i.e., all questions checked off)
+	* Brian/Emma
+		- Will lead labs during weeks 2,3,4,6,8,9,10.
+		- Talk to each other to ensure uniformity across lab sections.  Brian and Emma are encouraged to collaborate with each other on giving the intros to ensure uniformity across the sections.
+	* Brian/Emma/Justin/Jiyu
+		- Jiyu and Justin:  will assist respective lab leads during 2,3,4,5,6,7,8,9,10.
+		- Janani will share a google spreadsheet with you for each lab.  You are encouraged to bring your laptops/tablets to the lab to “check off” students and their problems.  If you choose not to bring your laptop/tablets e.t.c. that’s fine.  Can do it in paper too.  But need to update the shared excel sheet by the end of the week.
+	* Daniel/Yonatan
+		- Will handle labs during weeks 5 and 7
+		- Janani will share a spreadsheet with you.  You are encouraged to bring your laptops/tablets e.t.c. to mark of attendance of students in that sheet.  If you choose not to bring your laptops, can do it paper too.  But need to update the online spreadsheet by the end of the week.
+	* Janani
+		- Indicate attendance in master grading sheet:
+			* A = Absent
+			* C = successfully Completed
+			* P = Present (but not successfully completed) 
+			* W = rightfully absent (Waiver for quiz-related lab)
+
+7) Procedure for final:
+	* Gert emails head TA previous years' finals, if head TA doesn't have them yet
+	* Week before final:
+		- Janani puts ideas for final together
+		- Janani and Gert brainstorm on final
+		- Janani and Gert meet to discuss proposal, by Tuesday June 3rd		
+		- Janani works with TAs to put final and solutions together
+		- Janani reviews
+		- Janani emails final and solutions to Gert by Thursday June 5th, noon
+		- Iterations, if necessary on Friday afternoon / evening
+	* Final is on 06/10/2014 (Tuesday).
+		- Saturday (June 7th): TAs solve the final, and provide feedback to Janani
+		- Sunday (June 8th): Gert meets with Janani
+			* incorporate feedback: final version (final and solutions), emailed by Janani to Gert by midnight
+			* grading strategy and grading scheme
+		- Monday (June 9th):
+			* Janani: makes sure finals are printed after Gert okays
+			* review session before final: all of us, 7-9pm (in the lab)
+	* Day of the final (June 10th):
+		- Janani brings finals
+		- Auditing: Gert + TAs
+	* Final is on Tuesday, June 10th from 11:30 - 2:30.  TAs get Tuesday, Wednesday, Thursday and Friday until noon to grade the finals. 
+	* Saturday (June 14th):
+		- Janani emails final grade sheet to Gert, by noon
+		- Janani delivers graded finals to Gert
+
+
+ECE30 - PROJECT PLAN
+
+0) Janani emails Daniel/Yonatan the previous years' projects, and the second week lab (intro to simulator).
+
+1) Daniel/Yonatan attends first class, to see how it's organized. 
+
+2) Daniel/Yonatan gets ahead on assembler, reads class notes.
+
+3) Email:
+	* All project emails: for Daniel/Yonatan
+	* All other stuff: Janani (head TA) + other TAs
+
+4) Week of April 7th [which is the SECOND week of classes]: Daniel/Yonatan come into the lab sections 1 hr after the lab begins, to introduce the simulation tool and make the students do some basic stuff (for the last 2 hours).
+
+5) April 11th:
+	* project proposal (including office hours section)
+	* grading rules
+
+6) April 18th:
+	* project description final
+	* solution implemented and runs
+
+7) April 25th:
+	* all students linked to partners:
+		- groups of two: they select their own partner; must be from the same lab section (Daniel/Yonatan can ask Janani for master grade sheet with all info)
+		- students MUST email partner info to ecethirty@gmail.com by April 24th, 2014
+		- if they cannot find a partner: they must email Daniel by April 21nd, 2014
+		- Daniel assigns partners by April 25th, 2015
+		- no partner, or missing deadlines = lose points
+	* project posted online
+	* 9 - 9:50 AM on April 28th: project presented in discussion section replacing lecture (by Daniel or Yonatan, but both must be present)
+
+8) Week of April 28th:
+	- Project labs through out the week
+		* Daniel/Yonatan start the lab.  Lab assistants join 30 minutes later.
+	- 1 project office hour on Friday for Daniel and Yonatan each.
+
+9) Week of May 5th:
+	- 3 project office hours (Daniel and Yonatan each) -- a good strategy here: let people work in the lab, as they please; if they have questions, they write their name on the white board and you go down the list to deal with questions
+
+10) Week of May 12th:
+	- Project labs through the week
+		* Daniel/Yonatan start their respective labs at 7 PM with their respective lab assistants.
+	- 1 project office hour on Friday (Daniel and Yonatan each)
+	- clarify, don't give code
+
+11) Week of May 19th:
+	- 4 project office hours (Daniel and Yonatan) (same strategy as mentioned before)
+
+12) Week of May 26th:
+	- 3 project office hours (Daniel and Yonatan) (same strategy as mentioned before)
+
+13) June 3th: no more email, questions, etc.
+
+14) June 5th: project due
+
+15) June 11th: project grades due
+	* delivered in master grading sheet
+	* provide a comment / reason for each student (correct, incorrect xyz, etc.)
+	* run projects through MOSS and report (suspected) plagiarism to Gert
+
+
+

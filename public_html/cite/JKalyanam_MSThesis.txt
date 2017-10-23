@@ -1,0 +1,7 @@
+@book{kalyanam2009probabilistic,
+  title={Probabilistic algorithm for list Viterbi decoding},
+  author={Kalyanam, J.},
+  url={https://books.google.com/books?id=36sMAQAAMAAJ},
+  year={2009},
+  publisher={University of Wisconsin--Madison}
+}

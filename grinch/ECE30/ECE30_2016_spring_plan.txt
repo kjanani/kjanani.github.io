@@ -1,0 +1,184 @@
+
+ECE30 PLAN
+
+0) Lectures: Tu-Th 3:30 - 4:50 at PCNYH 109.  
+   Discussion: Mo 8 - 8:50 at YORK 2622.
+   Labs: Mo(7-10), Tu(7-10), We(7-10), Th(7-10) WLH 2112
+**ZXVF**   All Office hours held at XXXX  
+   Schedule is here:  https://docs.google.com/spreadsheets/d/1oR2CzY5caZv-ZwKFoc5D9frjMyb88XrcsSgJm4tySHg/edit?usp=sharing
+	PHONE NUMBERS:
+		Siavash:  512 698 2967
+		Regular Lab lead
+			Raghav Abboy: 858 999 6964
+		Project Lab lead
+			Siarhei Vishniakou: 510 394 5613
+		Lab helper
+			Sathya Ramamirtham: 858 265 9154
+		Grader
+			Daryl Lim: 858 405 9610
+		Head TA
+			Janani Kalyanam: 732-983-2437
+	
+
+	QUIZ PROCTORING:
+		Quiz 1 (week 4) [during discussion, 8 - 8:50] (4/18): Janani, Siahrei 
+		Quiz 2 (week 7) [during discussion, 8 - 8:50] (5/9): Janani, Sathya
+		Quiz 3 (week 9) [during discussion, 8 - 8:50] (5/23): Janani, Raghav
+		Quiz 4 (week 10) [during discussion, 7 - 7:50, 8 - 8:50] (5/30): Janani (WLH 2204)
+
+	
+	LABS:
+		Raghav: [Weeks 2,3,4,6,8,9,10] from 7 - 10
+		Siarhei: [Weeks 2 from 8 - 10], [Weeks 5,7 from 7 - 10].
+		Sathya:  [Weeks 3 through 10] (week 3, Thursday not available)
+		Daryl/Janani:  No labs.
+
+	OFFICE HOURS:
+		Raghav: 1:30 - 2:30 Fridays
+		Sathya: 11:00 - 12:30 Fridays
+		Janani: 12:30 - 1:30 Fridays
+		Siarhei: week-5 10 - 11 (Friday), week-6 9 - 11 (Friday), 
+		week-7 10 - 11 (Friday), week-8 9 - 12 (Monday), week-9 Friday 9:30 - 11:30
+		Daryl:  on Saturday (April 23, May 14, May 28, June 4)  of quiz weeks from 9 - 10 at ** ZXVF **
+		
+	
+	DISCUSSION:
+		Janani: all weeks
+
+2) Class attendance (suggestion to all TAs):
+	* I suggest you check out the first few classes (and especially the first one, on Tuesday March 29 at 3PM); after that, it's up to you: what matters is that you master the material so you can do the best possible job for the students; I'm not requiring class or discussion attendance and it does not count towards your time.
+	* make sure to be up to date and slightly ahead of what I'm covering in class (you can go off the online class schedule and suggested readings in notes or book)
+
+3) Personal tasks:
+
+** a) Janani -- Head TA **
+
+- Siavash interacts primarily with Janani; other TAs interact primarily with Janani
+- Manage master grade sheet and attendance lists
+	* ask Siavash for all names/info of the students (at the end of week 1)
+	* manage excel sheet: quiz grades, project grade, final grade, attendance for labs
+- handle all discussions
+- manage the printing and delivering of quizzes and final
+- coordination point
+- students always email ecethirty@gmail.com for *everything*; all TAs will be given access to the email.  Head TA assigns the emails to specific TAs by placing them in a separate folder assigned to them (this folder will be in the gmail account itself).  All TAs are expected to check the account once in 24 hours.  
+- given number of students in the class, Siavash will forward EVERY email from a student to ecethirty@gmail.com; except when marked [FOR THE PROFESSOR ONLY] in the subject line
+- assist with putting together quizzes (problems, solutions, and a well-documented grading rubric) and final
+- randomly check some graded quizzes
+
+** b) Siarhei **
+- programming project (more details at the end of this email)
+- final exam proctoring
+
+** c) Raghav [THE REGULAR LAB LEAD] **
+- leads the labs: Mo/Tu/We/Th for week 2, 3, 4, 6, 8, 9, 10; prepare and do introduction for about 20 - 30 minutes.
+- Checks email at ecethirty@gmail.com.  I have a folder created for each of you.
+- sometimes solve quizzes, final as a "tester" (Janani will assign problems)
+- proctoring
+- final grading
+- final grading complete by June 9th
+
+** d) Sathya [THE LAB ASSISTANT] **
+- labs: Mo/Tu/We/Th for week 3, 4, 5, 6, 7, 8, 9, 10.  
+	Come in 60 minutes after the lab begin and stay
+  until the end.
+- office hours: 1.5h per week
+- checks email at ecethirty@gmail.com [every 24 hours].  I have a folder created for each of you.
+- solve quizzes, final as a "tester" (Janani will assign problems)
+- proctoring
+- final grading
+- Final exam grades done by June 8th
+
+
+** f) Daryl **
+- grading: quizzes, final (also: double check a) grading and b) grade consistency)
+- office hours: Saturday of the quizzes
+- get email password (to correspond about regrades e.t.c.).
+
+
+4) Example problems and Study problems
+
+5) Procedure for quizzes:
+	Janani proctors all the quizzes with one helper (schedule on top of the page).
+	Daryl arrives at 8:45 AM to collect all the quizzes (look up quiz schedule at the top of the page).
+	Grades all the Monday-lab students first, and enter the grades.  Needs to be completed by 2:30 PM on Monday.
+	Grades the rest of the exams by 2:30 PM on Tuesday.
+	
+
+6) Policy about Quizzes:
+	Regrades can be requested only in person and only during the quiz
+viewing office hours.  
+			Quiz 1: on 4/23 from 9 - 10 TBA
+			Quiz 2: on 5/14 from 9 - 10 TBA
+			Quiz 3: on 5/28 from 9 - 10 TBA
+			Quiz 4: on 6/4 from 9 - 10 TBA
+
+
+6) Procedure for labs:
+	- Lab problems and solutions will be emailed to everyone during the
+	  weekend before Monday.
+	- Start with a 30 minute introduction of the material (lab lead) **
+	  ZXVF ** Need to discuss with Siavash
+	- Walk around to help students
+	- check off on a shared spreadsheet (1/0)
+
+7) Procedure for final:
+
+
+ECE30 - PROJECT PLAN
+
+
+1) Email:
+	* All project emails: Siarhei
+	* All other stuff: Janani (head TA) + other TAs
+
+2) Week 2: Siarhei come into the lab sections 1 hr after the lab begins, to introduce the simulation tool and make the students do some basic stuff (for the last 2 hours).  Reminds kids to find partners.  If the students can't find partners, email ecethirty by end of week-2 (Apr 8).
+
+
+3) Week 3: 
+	* project description final
+	* solution implemented and runs
+	* email us who your partner is by end of week-3 (Apr 15)
+
+4) week 4:  Sathya implements the solutions
+	* all students linked to partners:
+		- groups of two: they select their own partner; must be from the same lab section (Siarhei) can ask Janani for master grade sheet with all info)
+		- students MUST email partner info to ecethirty@gmail.com by
+		  Week 3.
+		- if they cannot find a partner: they must email Siarhei by week 2.
+		- Siarhei assigns partners by Friday of week-4 (Apr 22).  Those whom
+		  you partner up, you need to email them to let them know
+about who their partner is, and that they need to start working together.
+		- no partner, or missing deadlines = lose points
+	* project posted online
+
+8) Week 5:
+	- 8 - 8:50 AM: project presented in discussion section (Siarhei)
+	- Project labs through out the week
+		* Siarhei start the lab.  Lab assistants join 60 minutes later.
+	- 1 project office hour on Friday for Siarhei. 10 AM - 11 AM
+
+9) Week 6:  
+	- 2 hours; 9 AM - 11 AM
+
+9) Week 7:
+	- Project labs Mo, Tu, We, Th from 7 - 10.
+	- 1 project office hours (Siarhei) -- a good strategy here: let people work in the lab, as they please; if they have questions, they write their name on the white board and you go down the list to deal with questions
+	- Friday OH 10 - 11
+
+11) Week 8: 
+	- 3 project office hours (Siarhei) (same strategy as mentioned before)
+	- Monday 9 - 12 
+12) Week 9:
+	- 2 project office hours (Siarhei) (same strategy as mentioned before)
+	- Friday 9:30 - 11:30
+13) May 31st: no more email, questions, etc.
+
+14) June 2: project due
+
+15) June 8: project grades due, and final programming problem grades due
+	* delivered in master grading sheet
+	* provide a comment / reason for each student (correct, incorrect xyz, etc.)
+	* run projects through MOSS and report (suspected) plagiarism to Siavash
+
+
+

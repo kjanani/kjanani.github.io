@@ -1,0 +1,24 @@
+2014_10_4
+
+['cdc', 'newark', 'passenger', 'airport', 'possible', 'symptoms', 'officials', 'sick', 'plane', 'flight']
+['patient', 'hospital', 'dallas', 'critical', 'condition', 'nurse', 'africa', 'guard', 'case', 'first']
+['disney', 'watching', 'channel', 'ur', 'chanel', 'watchin', 'ya', 'africa', 'seconds', 'usa']
+['virus', 'bae', 'turn', 'patient', 'forever', 'webola', 'dallas', 'texas', 'home', 'watching']
+['seconds', 'retweet', 'gonna', '15', '60', 'youll', 'people', 'risk', 'wouldnt', '10']
+
+2014_10_5
+
+['disease', 'tweets', 'quicker', 'spreadin', 'africa', 'back', 'hits', 'kill', 'virus', 'blunt']
+['hits', 'blunt', 'kill', 'boy', 'called', 'band', 'germs', 'hand', 'sanitizer', 'lysol']
+['patient', 'dallas', 'hospital', 'critical', 'man', 'homeless', 'cdc', 'back', 'contact', 'officials']
+['tonight', 'simpsons', 'oct', '1997', '19', 'predicting', 'goodluck', 'sleeping', 'obama', 'president']
+['disney', 'watching', 'channel', 'ur', 'virus', 'u', 'hospital', 'catch', 'back', 'tryna']
+
+2014_10_6
+
+['giving', 'cat', 'speech', 'nurse', 'presidential', 'seconds', 'spain', 'spanish', 'positive', 'africa']
+['patient', 'nurse', 'hospital', 'tested', 'positive', 'spain', 'dallas', 'madrid', 'virus', 'spanish']
+['people', 'dont', 'nebraska', 'sierra', 'day', 'patient', 'leone', 'american', 'dallas', '121']
+['africa', 'first', 'spain', 'case', 'west', 'nurse', 'person', 'spanish', 'contracted', '1st']
+['watching', 'disney', 'channel', 'ur', 'virus', 'patient', 'seconds', 'ya', 'retweet', 'dallas']
+

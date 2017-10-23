@@ -1,0 +1,11 @@
+@INPROCEEDINGS{4487600, 
+author={Raman, C. and Kalyanam, J. and Seskar, I. and Mandayam, N.}, 
+booktitle={Signals, Systems and Computers, 2007. ACSSC 2007. Conference Record of the Forty-First Asilomar Conference on}, 
+title={Distributed Spatio-Temporal Spectrum Sensing: An Experimental Study}, 
+year={2007}, 
+month={Nov}, 
+pages={2063-2067}, 
+keywords={frequency agility;radio transmitters;sensors;distributed spatio-temporal spectrum sensing;frequency agile sensors;frequency agile spectrum sensing;heterogeneous transmissions;multiple asynchronous sources;triangulation techniques;Bandwidth;Bluetooth;Cognitive radio;Frequency;Laboratories;Radio transmitters;Radiofrequency identification;White spaces;Wideband;Wireless sensor networks}, 
+doi={10.1109/ACSSC.2007.4487600}, 
+ISSN={1058-6393},}
+

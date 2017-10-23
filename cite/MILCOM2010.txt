@@ -1,0 +1,10 @@
+@INPROCEEDINGS{5680477, 
+author={Goodman, J. and Miller, B.A. and Vian, J. and Bolstad, A. and Kalyanam, J. and Herman, M.}, 
+booktitle={MILITARY COMMUNICATIONS CONFERENCE, 2010 - MILCOM 2010}, 
+title={Physical layer considerations for wideband cognitive radio}, 
+year={2010}, 
+month={Oct}, 
+pages={2113-2118}, 
+keywords={broadband networks;cognitive radio;information theory;next generation networks;advanced digital compensation algorithm;broadband multichannel operation;communications waveform;information theoretic advantages;next generation cognitive radio;physical layer consideration;wideband cognitive radio;Bandwidth;Computer architecture;Kernel;Nonlinear distortion;Polynomials;Radio transmitters;Receivers}, 
+doi={10.1109/MILCOM.2010.5680477}, 
+ISSN={2155-7578},}

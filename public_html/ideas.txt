@@ -1,0 +1,35 @@
+Random musings.
+
+So, I never expected I would be one of **those** people who is touchy about
+their terminal/editor/etc set-ups.  Turns out that I am.
+
+These are some of my CURRENT preference.  
+
+0.  I'll ubuntu till I die.
+
+1.  TERMINAL:  Solarized.  With a bit of change for the color of the font.  #B0C5C8 to be
+precise.  The font is NIMBUS MONO L BOLD.
+
+2.  TERMINAL:  I don't like the entire directory being show at the prompt.
+This is the change I do.
+
+if [ "$color_prompt" = yes ]; then
+    #PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$
+'
+    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\W\[\033[00m\]\$
+'
+else
+    #PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
+    PS1='${debian_chroot:+($debian_chroot)}\u@\h:\W\$ '
+fi
+
+
+3.  EDITOR:  I'll VIM till I die.  I am right now with railcasts.  Download
+railcasts.vim and put it in ~./vim/colors/.  Then modify your ~/.vimrc to set
+the colorscheme as railcasts.
+
+4.  EDITOR:  I always set tabstop=4
+
+5.  FONT:  So, VIM takes over the font from the terminal.  On a laptop, I
+prefer the default font for the terminal and vim.  I prefer NIMBUS MONO L BOLD
+on larger screens.

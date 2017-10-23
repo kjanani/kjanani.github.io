@@ -1,0 +1,21 @@
+@article{Kalyanam2016,
+title = "Exploring trends of nonmedical use of prescription drugs and polydrug abuse in the Twittersphere using unsupervised machine learning ",
+journal = "Addictive Behaviors ",
+volume = "",
+number = "",
+pages = " - ",
+year = "2016",
+note = "",
+issn = "0306-4603",
+doi = "http://dx.doi.org/10.1016/j.addbeh.2016.08.019",
+url = "http://www.sciencedirect.com/science/article/pii/S0306460316302994",
+author = "Janani Kalyanam and Takeo Katsuki and Gert R.G. Lanckriet and Tim K. Mackey",
+keywords = "Nonmedical use of prescription drugs",
+keywords = "Prescription opioid abuse",
+keywords = "Digital surveillance",
+keywords = "Substance abuse",
+keywords = "Twitter",
+keywords = "Social media "
+}
+
+
